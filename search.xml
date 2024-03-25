@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Test2</title>
+      <link href="/2024/03/25/Test2/"/>
+      <url>/2024/03/25/Test2/</url>
+      
+        <content type="html"><![CDATA[<p>这是一段介绍</p><h2 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h2><p><img src="/./Test2/logo.jpg" class="lazyload placeholder" data-srcset="/./Test2/logo.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" alt="image"></p><h3 id="分段1"><a href="#分段1" class="headerlink" title="分段1"></a>分段1</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码块1</span><br></pre></td></tr></table></figure><p>链接引导1: <a href="https://dovever.github.io/">我的博客</a></p><h3 id="分段2"><a href="#分段2" class="headerlink" title="分段2"></a>分段2</h3><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img" src='https://bu.dusays.com/2022/11/26/638228a86935a.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">ACG</div>  <p>那些二次元的故事</p>  <a href='/gallery/ACG'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src='https://bu.dusays.com/2022/11/27/63831b681e9f8.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">岳阳</div>  <p>2017年5月岳阳</p>  <a href='/gallery/YY'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>关于OH MY GIRL的图片</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码块2</span><br></pre></td></tr></table></figure><p>链接引导2: <a href="https://dovever.github.io/">我的博客</a></p><h3 id="分段3"><a href="#分段3" class="headerlink" title="分段3"></a>分段3</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码块3</span><br></pre></td></tr></table></figure><p>链接引导3: <a href="https://dovever.github.io/">我的博客</a></p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码块4</span><br></pre></td></tr></table></figure><p>链接引导4: <a href="https://dovever.github.io/">我的博客</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Test1</title>
+      <link href="/2024/03/25/Test/"/>
+      <url>/2024/03/25/Test/</url>
+      
+        <content type="html"><![CDATA[<p>这是一段介绍</p><h2 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h2><p><img src="D:\Software\hexo\blog\blog\public\medias\logo.jpg" class="lazyload placeholder" data-srcset="D:\Software\hexo\blog\blog\public\medias\logo.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" alt="image"></p><h3 id="分段1"><a href="#分段1" class="headerlink" title="分段1"></a>分段1</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码块1</span><br></pre></td></tr></table></figure><p>链接引导1: <a href="https://dovever.github.io/">我的博客</a></p><h3 id="分段2"><a href="#分段2" class="headerlink" title="分段2"></a>分段2</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码块2</span><br></pre></td></tr></table></figure><p>链接引导2: <a href="https://dovever.github.io/">我的博客</a></p><h3 id="分段3"><a href="#分段3" class="headerlink" title="分段3"></a>分段3</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码块3</span><br></pre></td></tr></table></figure><p>链接引导3: <a href="https://dovever.github.io/">我的博客</a></p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码块4</span><br></pre></td></tr></table></figure><p>链接引导4: <a href="https://dovever.github.io/">我的博客</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/03/23/hello-world/"/>
+      <url>/2024/03/23/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
